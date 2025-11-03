@@ -28,7 +28,7 @@ role: Ph.D. Student in Political Science
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Keio University
-    url: 'https_proxy:https://www.keio.ac.jp/'
+    url: 'https://www.keio.ac.jp/'
 
 # Social network links
 profiles:
@@ -36,13 +36,13 @@ profiles:
     url: 'mailto:yukimikiya@keio.jp'
     label: E-mail Me
   - icon: brands/github
-    url: 'https_proxy:https://github.com/Mikiya-Yuki' # Assuming this is your GitHub username
+    url: 'https://github.com/Mikiya-Yuki' # Assuming this is your GitHub username
   - icon: academicons/orcid
-    url: 'https_proxy:https://orcid.org/0009-0000-7020-690X'
+    url: 'https://orcid.org/0009-0000-7020-690X'
   - icon: academicons/researchmap
-    url: 'https_proxy:https://researchmap.jp/R000016473'
+    url: 'https://researchmap.jp/R000016473'
   - icon: academicons/j-global
-    url: 'https_proxy:https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202101002056234604'
+    url: 'https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202101002056234604'
   - icon: brands/x
     url: https://x.com/MikiyaYuki
   - icon: academicons/google-scholar
@@ -84,7 +84,7 @@ education:
 work:
   - position: JSPS Research Fellow (DC1)
     company_name: Japan Society for the Promotion of Science
-    company_url: 'https_proxy:https://www.jsps.go.jp/'
+    company_url: 'https://www.jsps.go.jp/'
     icon: ''
     date_start: 2021-04-01
     date_end: 2024-03-31
@@ -147,7 +147,7 @@ languages:
 # Awards.
 awards:
   - title: JSPS Research Fellow (DC1)
-    url: 'https_proxy:https://www.jsps.go.jp/'
+    url: 'https://www.jsps.go.jp/'
     date: '2021-04-01'
     awarder: Japan Society for the Promotion of Science
     icon: hero/academic-cap
