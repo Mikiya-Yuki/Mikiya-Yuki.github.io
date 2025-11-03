@@ -18,6 +18,7 @@ sections:
       button:
         text: Download CV
         url: https://researchmap.jp/yuki-mikiya?lang=en
+        # uploads/resume.pdf
       headings:
         about: ''
         education: ''
