@@ -114,7 +114,7 @@ skills:
       - name: LaTeX
         description: ''
         # percent: 95
-        icon: file-lines
+        icon: hero/document-text
       - name: Java
         description: ''
         # percent: 60
