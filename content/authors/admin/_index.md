@@ -7,7 +7,7 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Yuki
-last_name: Mikiya 御器谷裕樹
+last_name: Mikiya
 
 # Pronouns (optional)
 # pronouns: he/him
