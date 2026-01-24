@@ -5,8 +5,9 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: zinc
+  mode: light          # system から light に変更（常にライトモードにする）
+  theme_day: minimal   # 白背景の標準的なテーマ（minimal, classic など）
+  theme_night: minimal # 夜間モードの設定も念のため白系テーマに合わせておく
 
 # SEO
 marketing:
