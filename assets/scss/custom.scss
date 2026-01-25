@@ -1,15 +1,32 @@
-/* サイト全体の背景色をオフホワイトにする設定 */
-body {
-  background-color: #f9f9f9; /* #f9f9f9 は非常に薄いグレーです */
-  color: #333333;            /* 文字色を真っ黒ではなく濃いグレーにして読みやすくする */
+/* テーマのカラーシステム変数を強制的に上書き */
+:root {
+  /* 背景色関連の変数をすべてオフホワイトに統一 */
+  --bs-body-bg: #f9f9f9;       /* Bootstrapの基本背景 */
+  --hu-bg: #f9f9f9;            /* HugoBloxの基本背景 */
+  --hu-bg-primary: #f9f9f9;    /* メインコンテンツ背景 */
+  --hu-bg-secondary: #f9f9f9;  /* セクション背景 */
+  
+  /* 文字色を真っ黒ではなく、読みやすい濃いグレーに */
+  --bs-body-color: #333333;
+  --hu-font-primary: #333333;
+  
+  /* リンク色（紫になっている原因）を落ち着いた色（黒や濃紺）に変更 */
+  /* もし青リンクがいいなら #0056b3 などにしてください */
+  --bs-link-color: #000000;    
+  --bs-primary: #000000;       /* テーマの「基調色」を黒にする */
 }
 
-/* 一部のテーマでコンテンツ部分が白く残るのを防ぐ設定 */
-.page-wrapper, .article-container {
-  background-color: #f9f9f9;
-}
-
-/* ヘッダー（ナビゲーションバー）も同じ色にする場合 */
-.navbar {
+/* それでも変わらない頑固な要素を強制変更 (!important) */
+body, 
+.page-wrapper, 
+.article-container, 
+nav.navbar {
   background-color: #f9f9f9 !important;
+  color: #333333 !important;
+}
+
+/* ナビゲーションバーの紫などを消す */
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link {
+  color: #333333 !important;
 }
