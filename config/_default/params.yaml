@@ -5,10 +5,9 @@
 
 # Appearance
 appearance:
-  mode: light          # system から light に変更（常にライトモードにする）
-  theme_day: minimal   # 白背景の標準的なテーマ（minimal, classic など）
-  theme_night: minimal # 夜間モードの設定も念のため白系テーマに合わせておく
-
+  mode: light        # ここを 'system' ではなく 'light' にします
+  switcher: false    # ボタンを非表示にする設定（現在の設定）
+  
 # SEO
 marketing:
   seo:
