@@ -3,11 +3,11 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
 appearance:
-  mode: light        # ここを 'system' ではなく 'light' にします
-  switcher: false    # ボタンを非表示にする設定（現在の設定）
-  
+  mode: light        # 前回設定した箇所
+  switcher: false    # 前回設定した箇所
+  theme: minimal
+
 # SEO
 marketing:
   seo:

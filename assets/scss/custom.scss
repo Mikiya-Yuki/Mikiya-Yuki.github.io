@@ -1,0 +1,15 @@
+/* サイト全体の背景色をオフホワイトにする設定 */
+body {
+  background-color: #f9f9f9; /* #f9f9f9 は非常に薄いグレーです */
+  color: #333333;            /* 文字色を真っ黒ではなく濃いグレーにして読みやすくする */
+}
+
+/* 一部のテーマでコンテンツ部分が白く残るのを防ぐ設定 */
+.page-wrapper, .article-container {
+  background-color: #f9f9f9;
+}
+
+/* ヘッダー（ナビゲーションバー）も同じ色にする場合 */
+.navbar {
+  background-color: #f9f9f9 !important;
+}
