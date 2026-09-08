@@ -12,10 +12,6 @@ last_name: Mikiya
 # Pronouns (optional)
 # pronouns: he/him
 
-# Status emoji
-status:
-  icon: 🎓 # 🚀 (rocket) or 🎓 (graduation cap) or 📚 (books)
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -23,7 +19,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student in Political Science
+role: 'Ph.D. Student in Political Science | Harvard-Yenching Institute Visiting Fellow'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -35,18 +31,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yukimikiya@keio.jp'
     label: E-mail Me
-  - icon: brands/github
-    url: 'https://github.com/Mikiya-Yuki' # Assuming this is your GitHub username
   - icon: academicons/orcid
     url: 'https://orcid.org/0009-0000-7020-690X'
-  - icon: academicons/researchmap
-    url: 'https://researchmap.jp/R000016473'
-  - icon: academicons/j-global
-    url: 'https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202101002056234604'
-  - icon: brands/x
-    url: https://x.com/MikiyaYuki
+    label: ORCID
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Ofif_FYAAAAJ&hl=en
+    label: Google Scholar
 
 interests:
   - Modern Chinese Politics & History
@@ -161,7 +151,7 @@ awards:
     summary: ''
 ---
 
-Yuki Mikiya is a Ph.D. Student in Political Science, Department of Law at Keio University and a former JSPS Research Fellow (DC1).
+Yuki Mikiya is a Ph.D. Student in Political Science, Department of Law at Keio University, and a Visiting Fellow at the Harvard-Yenching Institute. He is also a former JSPS Research Fellow (DC1).
 
 His research focuses on modern Chinese politics and history, computational social science, and quantitative text analysis. He is particularly interested in applying quantitative methods and natural language processing to analyze political ideology, propaganda, and diplomacy in contemporary China.
 

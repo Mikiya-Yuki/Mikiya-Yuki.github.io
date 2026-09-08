@@ -1,0 +1,245 @@
+/* Calm, editorial palette for a social-science research profile. */
+:root {
+  --bs-body-bg: #f3f4f1;
+  --hu-bg: #f3f4f1;
+  --hu-bg-primary: #f3f4f1;
+  --hu-bg-secondary: #eef0ed;
+  --bs-body-color: #292d2f;
+  --hu-font-primary: #292d2f;
+  --bs-link-color: #526976;
+  --bs-primary: #6f403b;
+
+  --hb-primary-50-rgb: 248 245 244;
+  --hb-primary-100-rgb: 239 231 229;
+  --hb-primary-200-rgb: 220 202 198;
+  --hb-primary-300-rgb: 191 160 154;
+  --hb-primary-400-rgb: 153 111 103;
+  --hb-primary-500-rgb: 122 72 66;
+  --hb-primary-600-rgb: 111 64 59;
+  --hb-primary-700-rgb: 88 50 46;
+  --hb-primary-800-rgb: 66 39 36;
+  --hb-primary-900-rgb: 50 31 29;
+  --hb-primary-950-rgb: 32 20 19;
+
+  --hb-secondary-50-rgb: 245 247 248;
+  --hb-secondary-100-rgb: 232 237 239;
+  --hb-secondary-200-rgb: 207 217 221;
+  --hb-secondary-300-rgb: 170 187 194;
+  --hb-secondary-400-rgb: 118 145 156;
+  --hb-secondary-500-rgb: 82 105 118;
+  --hb-secondary-600-rgb: 66 86 97;
+  --hb-secondary-700-rgb: 53 69 78;
+  --hb-secondary-800-rgb: 43 56 63;
+  --hb-secondary-900-rgb: 35 46 51;
+  --hb-secondary-950-rgb: 22 29 33;
+}
+
+body,
+.page-wrapper,
+.article-container {
+  background-color: #f3f4f1 !important;
+  color: #292d2f !important;
+}
+
+body {
+  font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 1rem;
+  line-height: 1.72;
+}
+
+h1,
+h2,
+h3,
+.navbar-brand {
+  font-family: Georgia, "Times New Roman", serif;
+  letter-spacing: 0 !important;
+}
+
+nav.navbar {
+  background-color: rgba(250, 250, 248, 0.96) !important;
+  border-bottom: 1px solid #d7d9d5;
+  box-shadow: none !important;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #34393b !important;
+  font-weight: 500;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: #6f403b !important;
+}
+
+.nav-link.active {
+  text-decoration: underline;
+  text-decoration-color: #bfa09a;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.35rem;
+}
+
+.hbb-section {
+  background-color: #f3f4f1;
+}
+
+#section-resume-biography-3 {
+  background: #e9ece8;
+  border-bottom: 1px solid #d7d9d5;
+}
+
+#section-resume-biography-3 .resume-biography {
+  padding-top: 4.5rem !important;
+  padding-bottom: 4.5rem !important;
+}
+
+#section-resume-biography-3 .avatar-wrapper {
+  width: 176px !important;
+  height: 176px !important;
+}
+
+#section-resume-biography-3 .avatar {
+  width: 176px !important;
+  height: 176px !important;
+  border: 1px solid #c9ccc7 !important;
+  border-radius: 4px !important;
+  box-shadow: 0 4px 14px rgba(32, 37, 39, 0.09) !important;
+}
+
+#section-resume-biography-3 h1 {
+  color: #25292b !important;
+  font-size: 2.75rem !important;
+  font-weight: 600 !important;
+  line-height: 1.12 !important;
+}
+
+#section-resume-biography-3 h2,
+#section-resume-biography-3 h3,
+.hbb-section h2 {
+  color: #2f3436 !important;
+  font-weight: 600 !important;
+}
+
+#section-resume-biography-3 .text-primary-600 {
+  color: #6f403b !important;
+}
+
+/* Keep the contact row useful without turning it into a badge cloud. */
+#section-resume-biography-3 .grid > div:first-child > .flex.flex-wrap a {
+  width: 2.5rem !important;
+  height: 2.5rem !important;
+  color: #526976 !important;
+  background: transparent !important;
+  border: 1px solid #bdc4c5 !important;
+  border-radius: 3px !important;
+  box-shadow: none !important;
+  transform: none !important;
+}
+
+#section-resume-biography-3 .grid > div:first-child > .flex.flex-wrap a:hover {
+  color: #6f403b !important;
+  background: #fafaf8 !important;
+  border-color: #9da8aa !important;
+}
+
+/* Section labels read more like a CV when the decorative medallions are removed. */
+#section-resume-biography-3 .grid > div:nth-child(2) > div > .flex.items-center > div:first-child,
+#section-resume-biography-3 [class~="md:grid-cols-2"] > .group > .flex > div:first-child {
+  display: none !important;
+}
+
+#section-resume-biography-3 .grid > div:nth-child(2) > div > .flex.items-center {
+  gap: 0 !important;
+  margin-bottom: 1.25rem !important;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid #cfd3cf;
+}
+
+#section-resume-biography-3 [class~="md:grid-cols-2"] > .group {
+  background: rgba(250, 250, 248, 0.72) !important;
+  border: 1px solid #d2d5d1 !important;
+  border-radius: 4px !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+  transform: none !important;
+}
+
+#section-resume-biography-3 [class~="md:grid-cols-2"] > .group:hover {
+  border-color: #b9bfba !important;
+  box-shadow: none !important;
+}
+
+#section-resume-biography-3 .grid > div:nth-child(2) > div:last-child span {
+  color: #3d4d54 !important;
+  background: transparent !important;
+  border-color: #bdc4c5 !important;
+  border-radius: 3px !important;
+}
+
+#section-resume-biography-3 a[href*="researchmap.jp/yuki-mikiya"] {
+  color: #fafaf8 !important;
+  background: #4a555a !important;
+  border: 1px solid #4a555a;
+  border-radius: 3px !important;
+  box-shadow: none !important;
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  transform: none !important;
+}
+
+#section-resume-biography-3 a[href*="researchmap.jp/yuki-mikiya"]:hover {
+  background: #353f44 !important;
+}
+
+#section-resume-biography-3 a[href*="researchmap.jp/yuki-mikiya"] svg {
+  display: none;
+}
+
+/* Flatten publication and event cards to keep attention on the scholarship. */
+.blox-collection .group {
+  background: #fafaf8 !important;
+  border: 1px solid #d7d9d5 !important;
+  border-radius: 4px !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+  transform: none !important;
+}
+
+.blox-collection .group:hover {
+  border-color: #bcc2bd !important;
+  box-shadow: 0 3px 12px rgba(32, 37, 39, 0.07) !important;
+}
+
+.blox-collection .group img {
+  transform: none !important;
+}
+
+.pub-list-item .pub-icon {
+  display: none;
+}
+
+.pub-list-item {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #dfe1de;
+}
+
+.page-wrapper a:not(.nav-link) {
+  text-decoration-color: #aab5b9;
+  text-underline-offset: 0.18em;
+}
+
+footer {
+  color: #62696b;
+  border-top: 1px solid #d7d9d5;
+}
+
+@media (max-width: 767px) {
+  #section-resume-biography-3 .resume-biography {
+    padding-top: 3rem !important;
+    padding-bottom: 3.5rem !important;
+  }
+
+  #section-resume-biography-3 h1 {
+    font-size: 2.25rem !important;
+  }
+}
