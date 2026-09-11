@@ -58,8 +58,4 @@ sections:
     content:
       title: Awards & Fellowships
       username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
 ---
