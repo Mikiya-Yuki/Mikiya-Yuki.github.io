@@ -81,7 +81,7 @@ work:
     date_start: 2026-08-01
     date_end: 2027-05-31
     summary: |2-
-      Doctoral fellow in residence at Harvard University, working on propaganda and information control in contemporary China.
+      Visiting fellow in residence at Harvard University, working on propaganda and information control in contemporary China.
   - position: Part-time Lecturer
     company_name: Yokohama City University
     company_url: 'https://www.yokohama-cu.ac.jp/'
@@ -182,7 +182,7 @@ awards:
     awarder: Harvard-Yenching Institute
     icon: hero/academic-cap
     summary: |
-      Doctoral fellowship in residence at Harvard University (Aug 2026 - May 2027).
+      Visiting fellowship in residence at Harvard University (Aug 2026 - May 2027).
   - title: TSUBAME Support Program for Young and Female Users
     url: ''
     date: '2025-04-01'
