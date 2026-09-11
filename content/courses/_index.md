@@ -10,25 +10,25 @@ sections:
       text: |
         ### Keio University
 
-        **Fundamentals of Statistics** — Faculty of Environment and Information Studies
+        **[Fundamentals of Statistics](/uploads/syllabi/keio-statistics-ds1-2026.pdf)** — Faculty of Environment and Information Studies
         *Spring 2024, Spring 2025, Spring 2026*
 
         ### Yokohama City University
 
-        **Topics in Economics: Quantitative Text Analysis in Social Sciences** — School of International Commerce, taught in English
+        **[Topics in Economics: Quantitative Text Analysis in Social Sciences](/uploads/syllabi/ycu-quantitative-text-analysis-2026.pdf)** — School of International Commerce, taught in English
         *Spring 2025, Spring 2026*
 
-        **Topics in Data Analysis: Data Analysis with R** — School of International Commerce, taught in English
+        **[Topics in Data Analysis: Data Analysis with R](/uploads/syllabi/ycu-data-analysis-with-r-2026.pdf)** — School of International Commerce, taught in English
         *Spring 2025, Spring 2026*
 
         ### Teikyo Heisei University
 
-        **Information Literacy / Introduction to Data Science** — Faculty of Humanities and Social Sciences
+        **[Information Literacy / Introduction to Data Science](/uploads/syllabi/teikyo-heisei-information-literacy-data-science-2024.pdf)** — Faculty of Humanities and Social Sciences
         *Fall 2024*
 
         ### Japan College of Foreign Languages
 
-        **Fundamentals of Data Analysis**
+        **[Fundamentals of Data Analysis](/uploads/syllabi/jcfl-fundamentals-of-data-analysis-2024.pdf)**
         *Fall 2024*
 
         ---
