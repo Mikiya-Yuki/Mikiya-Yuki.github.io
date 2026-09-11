@@ -19,13 +19,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 'Ph.D. Student in Political Science'
+role: 'Visiting Fellow / Ph.D. Student in Political Science'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Harvard-Yenching Institute
+  - name: Harvard-Yenching Institute (Visiting Fellow)
     url: 'https://www.harvard-yenching.org/'
-  - name: Keio University
+  - name: Keio University (Ph.D. Student)
     url: 'https://www.keio.ac.jp/'
 
 # Social network links
