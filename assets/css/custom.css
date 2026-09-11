@@ -243,3 +243,20 @@ footer {
     font-size: 2.25rem !important;
   }
 }
+
+/* The date/title/summary list is a list, not a card - drop the card chrome. */
+.blox-collection article.md\:grid > .group,
+.blox-collection article.md\:grid > .group:hover {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.blox-collection article.md\:grid h2 a {
+  color: #25292b;
+  text-decoration: none;
+}
+
+.blox-collection article.md\:grid h2 a:hover {
+  color: #6f403b;
+}

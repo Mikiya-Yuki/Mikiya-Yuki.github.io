@@ -19,10 +19,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 'Ph.D. Student in Political Science | Harvard-Yenching Institute Visiting Fellow'
+role: 'Ph.D. Student in Political Science'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: Harvard-Yenching Institute
+    url: 'https://www.harvard-yenching.org/'
   - name: Keio University
     url: 'https://www.keio.ac.jp/'
 
@@ -40,7 +42,7 @@ profiles:
 
 interests:
   - Modern Chinese Politics & History
-  - Political Science
+  - Propaganda & Information Control
   - Computational Social Science
   - Quantitative Text Analysis
   - Political Methodology
@@ -72,6 +74,30 @@ education:
     summary: ''
 
 work:
+  - position: Visiting Fellow
+    company_name: Harvard-Yenching Institute
+    company_url: 'https://www.harvard-yenching.org/'
+    icon: ''
+    date_start: 2026-08-01
+    date_end: 2027-05-31
+    summary: |2-
+      Doctoral fellow in residence at Harvard University, working on propaganda and information control in contemporary China.
+  - position: Part-time Lecturer
+    company_name: Yokohama City University
+    company_url: 'https://www.yokohama-cu.ac.jp/'
+    icon: ''
+    date_start: 2025-04-01
+    date_end: ''
+    summary: |2-
+      Teaching "Topics in Economics (Quantitative Text Analysis in Social Sciences)" and "Topics in Data Analysis (Data Analysis with R)" in English, School of International Commerce.
+  - position: Part-time Lecturer
+    company_name: Keio University
+    company_url: 'https://www.keio.ac.jp/'
+    icon: ''
+    date_start: 2024-04-01
+    date_end: ''
+    summary: |2-
+      Teaching "Fundamentals of Statistics", Faculty of Environment and Information Studies.
   - position: JSPS Research Fellow (DC1)
     company_name: Japan Society for the Promotion of Science
     company_url: 'https://www.jsps.go.jp/'
@@ -80,14 +106,28 @@ work:
     date_end: 2024-03-31
     summary: |2-
       Supported by Grant-in-Aid for JSPS Fellows (Topic: Re-evaluation of State Tradition in Modern Chinese Politics).
-  # You can add teaching positions here if desired
-  # - position: Part-time Lecturer
-  #   company_name: Yokohama City University
-  #   company_url: ''
-  #   icon: ''
-  #   date_start: 2025-04-01
-  #   date_end: 2025-08-31
-  #   summary: 'Taught "Data Analysis with R" and "Quantitative Text Analysis in Social Sciences"'
+  - position: Research Assistant
+    company_name: Tokyo Foundation for Policy Research
+    company_url: 'https://www.tkfd.or.jp/'
+    icon: ''
+    date_start: 2021-10-01
+    date_end: 2023-03-31
+    summary: ''
+  - position: Special Research Student
+    company_name: The Institute of Statistical Mathematics
+    company_url: 'https://www.ism.ac.jp/'
+    icon: ''
+    date_start: 2020-10-01
+    date_end: ''
+    summary: |2-
+      Affiliated with the Institute of Statistical Mathematics for research on statistical methods for text data.
+  - position: Research Assistant
+    company_name: Keio University Global Research Institute (KGRI)
+    company_url: 'https://www.kgri.keio.ac.jp/'
+    icon: ''
+    date_start: 2019-04-01
+    date_end: 2021-03-31
+    summary: ''
 
 # Skills
 skills:
@@ -136,6 +176,20 @@ languages:
 
 # Awards.
 awards:
+  - title: Visiting Fellowship
+    url: 'https://www.harvard-yenching.org/'
+    date: '2026-08-01'
+    awarder: Harvard-Yenching Institute
+    icon: hero/academic-cap
+    summary: |
+      Doctoral fellowship in residence at Harvard University (Aug 2026 - May 2027).
+  - title: TSUBAME Support Program for Young and Female Users
+    url: ''
+    date: '2025-04-01'
+    awarder: Institute of Science Tokyo
+    icon: hero/cpu-chip
+    summary: |
+      Computing allocation for "Information Manipulation under Authoritarian Regimes: Analyzing Chinese Propaganda with Large Language Models" (Apr 2025 - Mar 2026).
   - title: JSPS Research Fellow (DC1)
     url: 'https://www.jsps.go.jp/'
     date: '2021-04-01'
@@ -151,8 +205,8 @@ awards:
     summary: ''
 ---
 
-Yuki Mikiya is a Ph.D. Student in Political Science, Department of Law at Keio University, and a Visiting Fellow at the Harvard-Yenching Institute. He is also a former JSPS Research Fellow (DC1).
+Yuki Mikiya is a Ph.D. Student in Political Science, Graduate School of Law at Keio University, and a Visiting Fellow at the Harvard-Yenching Institute. He is a former JSPS Research Fellow (DC1) and teaches statistics and data analysis at Keio University and Yokohama City University.
 
-His research focuses on modern Chinese politics and history, computational social science, and quantitative text analysis. He is particularly interested in applying quantitative methods and natural language processing to analyze political ideology, propaganda, and diplomacy in contemporary China.
+His research asks how authoritarian regimes build and maintain legitimacy through propaganda and information control, with a focus on the Chinese Communist Party. He combines archival and documentary work with quantitative text analysis, natural language processing, and large language models to trace long-run shifts in official ideology, domestic and external propaganda, and diplomatic rhetoric. A second strand of his work examines disinformation and political polarization in East Asia, and the conditions under which China scholars can conduct research.
 
 He holds an M.A. and B.A. in Law from Keio University and was an exchange student at Peking University.

@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Yuki Mikiya
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://mikiya-yuki.github.io/'
 
 ############################
 ## LANGUAGE
@@ -51,5 +51,14 @@ markup:
     lineNos: false
 security:
   _merge: deep
+  exec:
+    allow:
+      - '^(dart-)?sass$'
+      - '^go$'
+      - '^git$'
+      - '^node$'
+      - '^npx$'
+      - '^postcss$'
+      - '^tailwindcss$'
 sitemap:
   _merge: deep
