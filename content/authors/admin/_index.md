@@ -48,7 +48,7 @@ interests:
   - Political Methodology
 
 education:
-  - area: PhD Student in Political Science
+  - area: Ph.D. Student in Political Science
     institution: Keio University
     icon: ''
     date_start: 2021-04-01
@@ -149,14 +149,22 @@ skills:
         description: ''
         # percent: 60
         icon: code-bracket
-
-languages:
-  - name: Japanese
-    # percent: 100
-  - name: English
-    # percent: 85
-  - name: Chinese
-    # percent: 80
+  - name: Languages
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Japanese
+        description: 'Native'
+        # percent: 100
+        icon: globe-alt
+      - name: English
+        description: 'Academic'
+        # percent: 85
+        icon: globe-alt
+      - name: Chinese
+        description: 'Academic'
+        # percent: 80
+        icon: globe-alt
 
 # Awards.
 awards:
