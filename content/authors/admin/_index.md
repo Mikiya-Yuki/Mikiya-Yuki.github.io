@@ -81,13 +81,13 @@ work:
     date_start: 2026-08-01
     date_end: 2027-05-31
     summary: |2-
-      Visiting fellow in residence at Harvard University, working on propaganda and information control in contemporary China.
+      Visiting fellow in residence at Harvard University, working on the project "Forward to the Past: Revival of Traditionalism in Communist China".
   - position: Part-time Lecturer
     company_name: Yokohama City University
     company_url: 'https://www.yokohama-cu.ac.jp/'
     icon: ''
     date_start: 2025-04-01
-    date_end: ''
+    date_end: 2026-08-31
     summary: |2-
       Teaching "Topics in Economics (Quantitative Text Analysis in Social Sciences)" and "Topics in Data Analysis (Data Analysis with R)" in English, School of International Commerce.
   - position: Part-time Lecturer
@@ -95,9 +95,9 @@ work:
     company_url: 'https://www.keio.ac.jp/'
     icon: ''
     date_start: 2024-04-01
-    date_end: ''
+    date_end: 2026-08-31
     summary: |2-
-      Teaching "Fundamentals of Statistics", Faculty of Environment and Information Studies.
+      Teaching "Fundamentals of Statistics", Faculties of Policy Management and Environment and Information Studies.
   - position: JSPS Research Fellow (DC1)
     company_name: Japan Society for the Promotion of Science
     company_url: 'https://www.jsps.go.jp/'
@@ -177,11 +177,11 @@ awards:
       Visiting fellowship in residence at Harvard University (Aug 2026 - May 2027).
   - title: TSUBAME Support Program for Young and Female Users
     url: ''
-    date: '2025-04-01'
+    date: '2025-07-01'
     awarder: Institute of Science Tokyo
     icon: hero/cpu-chip
     summary: |
-      Computing allocation for "Information Manipulation under Authoritarian Regimes: Analyzing Chinese Propaganda with Large Language Models" (Apr 2025 - Mar 2026).
+      Computing allocation for "Information Manipulation under Authoritarian Regimes: Analyzing Chinese Propaganda with Large Language Models" (Jul 2025 - Jun 2026).
   - title: JSPS Research Fellow (DC1)
     url: 'https://www.jsps.go.jp/'
     date: '2021-04-01'
@@ -197,7 +197,7 @@ awards:
     summary: ''
 ---
 
-Yuki Mikiya is a Ph.D. Student in Political Science, Graduate School of Law at Keio University, and a Visiting Fellow at the Harvard-Yenching Institute. He is a former JSPS Research Fellow (DC1) and teaches statistics and data analysis at Keio University and Yokohama City University.
+Yuki Mikiya is a Ph.D. Student in Political Science, Graduate School of Law at Keio University, and a Visiting Fellow at the Harvard-Yenching Institute. He is a former JSPS Research Fellow (DC1) and has taught statistics and data analysis at Keio University and Yokohama City University.
 
 His research asks how authoritarian regimes build and maintain legitimacy through propaganda and information control, with a focus on the Chinese Communist Party. He combines archival and documentary work with quantitative text analysis, natural language processing, and large language models to trace long-run shifts in official ideology, domestic and external propaganda, and diplomatic rhetoric. A second strand of his work examines disinformation and political polarization in East Asia, and the conditions under which China scholars can conduct research.
 

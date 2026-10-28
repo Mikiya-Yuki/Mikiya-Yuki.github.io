@@ -10,7 +10,7 @@ sections:
       text: |
         ### Keio University
 
-        **[Fundamentals of Statistics](/uploads/syllabi/keio-statistics-ds1-2026.pdf)** — Faculty of Environment and Information Studies
+        **[Fundamentals of Statistics](/uploads/syllabi/keio-statistics-ds1-2026.pdf)** — Faculties of Policy Management and Environment and Information Studies
         *Spring 2024, Spring 2025, Spring 2026*
 
         ### Yokohama City University

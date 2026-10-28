@@ -26,7 +26,7 @@ sections:
 
         **Organizing member** — Workshop on Empirical Research on Chinese Politics and Media
 
-        **Organizer** — Workshop on Empirical Research on Chinese Politics and Media, "The Political Dynamics that Shape Information" · *July 2024*
+        **Organizer** — 5th Workshop on Chinese Media Studies (now the Workshop on Empirical Research on Chinese Politics and Media), "The Political Dynamics that Shape Information" · *July 2024*
 
         **Executive Committee** — Japan Association for Asian Studies, 2025 Spring Conference · *Dec 2024 – Jun 2025*
 
@@ -45,6 +45,7 @@ sections:
         * Japanese Association of Electoral Studies
         * Japan Association for Asian Studies
         * Japanese Political Science Association
+        * The Association for Natural Language Processing
         * American Political Science Association
     design:
       columns: '1'

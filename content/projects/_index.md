@@ -40,10 +40,10 @@ sections:
       title: "Grants & Funding"
       text: |
         **Information Manipulation under Authoritarian Regimes: Analyzing Chinese Propaganda with Large Language Models**
-        Principal Investigator · TSUBAME Support Program for Young and Female Users, Institute of Science Tokyo · *Apr 2025 – Mar 2026*
+        Principal Investigator · TSUBAME Support Program for Young and Female Users, Institute of Science Tokyo · *Jul 2025 – Jun 2026*
 
         **A Comprehensive Study of Disinformation and Political Division, Focusing on East Asian Countries**
-        Co-Investigator · *Jul 2023 – Mar 2029*
+        Project Member · *Jul 2023 – Mar 2029*
 
         **Re-evaluating State Tradition in Modern Chinese Politics: Why Did Communism and Nationalism Coexist?**
         Principal Investigator · Grant-in-Aid for JSPS Fellows (DC1) · *Apr 2021 – Mar 2024*
