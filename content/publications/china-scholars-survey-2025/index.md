@@ -22,3 +22,5 @@ featured: false
 
 Original title: 日本版中国研究者調査2025―概要と速報―
 
+An English version appeared in the Harvard-Yenching Institute Working Paper Series: [Researching China from Japan: Preliminary Findings from a 2025 Scholar Survey](/publications/researching-china-from-japan-2025/).
+
