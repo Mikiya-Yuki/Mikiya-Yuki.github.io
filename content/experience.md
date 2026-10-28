@@ -24,7 +24,7 @@ sections:
       text: |
         **Peer review** — *Japanese Journal of Political Science*; International Conference on Machine Learning (ICML)
 
-        **Organizing member** — Workshop on Empirical Research on Chinese Politics and Media
+        **Organizing member** — [Workshop on Empirical Research on Chinese Politics and Media](https://ecs-jp.netlify.app/) · *Mar 2024 – present*
 
         **Organizer** — 5th Workshop on Chinese Media Studies (now the Workshop on Empirical Research on Chinese Politics and Media), "The Political Dynamics that Shape Information" · *July 2024*
 

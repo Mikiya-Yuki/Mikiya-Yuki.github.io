@@ -5,7 +5,7 @@ authors:
 date: "2026-10-01T00:00:00Z"
 publishDate: "2026-10-01T00:00:00Z"
 publication_types:
-  - article-journal
+  - book-review
 publication: "*Harvard-Yenching Institute Book Reviews*"
 publication_short: "*HYI Book Reviews*"
 abstract: "Rather than asking whether Xi Jinping's rule is personalist, Suzuki's book asks how a cadre formed by the Party acquired the repertoires, networks, and organizational leverage to personalize rule, offering an account of the co-evolution of ruler and regime. The review highlights his source-critical reconstruction of Xi's path before 2012 from local newspapers, Party and government journals, and internally circulated materials, and notes that these sources are strongest for reconstructing Xi's institutional formation but less able to isolate his private preferences or intentions."

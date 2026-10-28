@@ -5,7 +5,7 @@ authors:
 date: "2024-09-30T00:00:00Z"
 publishDate: "2024-09-30T00:00:00Z"
 publication_types:
-  - article-journal
+  - book-review
 publication: "*Ajia Keizai (アジア経済)*, 65(3), 134-138"
 publication_short: "*Ajia Keizai*, 65(3)"
 # Original title: 書評 于海春著『中国のメディア統制―地域間の「不均等な自由」を生む政治と市場』

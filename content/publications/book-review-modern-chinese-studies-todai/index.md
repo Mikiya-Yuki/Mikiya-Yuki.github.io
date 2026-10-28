@@ -5,7 +5,7 @@ authors:
 date: "2026-10-01T00:00:00Z"
 publishDate: "2026-10-01T00:00:00Z"
 publication_types:
-  - article-journal
+  - book-review
 publication: "*Harvard-Yenching Institute Book Reviews*"
 publication_short: "*HYI Book Reviews*"
 abstract: "This edited volume of fourteen lecture-based chapters maps how one University of Tokyo group studies contemporary China, across politics and international relations; Hong Kong, Taiwan, and ethnic-minority issues; the economy; society; and research methods. The review argues that, read together, the chapters suggest no single evidentiary practice is adequate for understanding Xi-era China, and that the volume is valuable not as a national template but as evidence of one research community combining source-critical history, sectoral knowledge, fieldwork, and new data."

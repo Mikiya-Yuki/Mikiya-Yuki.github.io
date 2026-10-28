@@ -5,7 +5,7 @@ authors:
 date: "2025-04-01T00:00:00Z"
 publishDate: "2025-04-01T00:00:00Z"
 publication_types:
-  - article-magazine
+  - essay
 publication: "*Kazankai Alumni Newsletter (霞山会留学生同窓会 News Letter)*, No. 50, 2-5"
 publication_short: "*Kazankai Alumni Newsletter*, No. 50"
 # Original title: 中国政治（史）研究と量的分析

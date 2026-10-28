@@ -1,0 +1,13 @@
+# Site-level additions to the theme's English strings.
+
+# Label for the custom `book-review` publication type.
+- id: pub_book_review
+  translation: Book review
+
+# Label for the custom `essay` publication type.
+- id: pub_essay
+  translation: Essay
+
+# The theme has no label for this CSL type and would show "Article-Magazine".
+- id: pub_article_magazine
+  translation: Magazine article

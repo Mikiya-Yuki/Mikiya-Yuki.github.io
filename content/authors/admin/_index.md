@@ -197,7 +197,7 @@ awards:
     summary: ''
 ---
 
-Yuki Mikiya is a Ph.D. Student in Political Science, Graduate School of Law at Keio University, and a Visiting Fellow at the Harvard-Yenching Institute. He is a former JSPS Research Fellow (DC1) and has taught statistics and data analysis at Keio University and Yokohama City University.
+Yuki Mikiya is a Ph.D. Student in Political Science, Graduate School of Law at Keio University, and a Visiting Fellow at the Harvard-Yenching Institute. He is a former JSPS Research Fellow (DC1), has taught statistics and data analysis at Keio University and Yokohama City University, and is one of the four organizers of the [Workshop on Empirical Research on Chinese Politics and Media](https://ecs-jp.netlify.app/).
 
 His research asks how authoritarian regimes build and maintain legitimacy through propaganda and information control, with a focus on the Chinese Communist Party. He combines archival and documentary work with quantitative text analysis, natural language processing, and large language models to trace long-run shifts in official ideology, domestic and external propaganda, and diplomatic rhetoric. A second strand of his work examines disinformation and political polarization in East Asia, and the conditions under which China scholars can conduct research.
 
