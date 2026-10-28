@@ -5,8 +5,8 @@ authors:
   - Haichun Yu
   - Jaehwan Lim
   - Asei Ito
-date: "2026-10-01T00:00:00Z"
-publishDate: "2026-10-01T00:00:00Z"
+date: "2026-10-19T00:00:00Z"
+publishDate: "2026-10-19T00:00:00Z"
 publication_types:
   - article-journal
 publication: "*Ajia Kenkyu (アジア研究)*, Accepted"
